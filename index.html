@@ -21,6 +21,10 @@
         <input type="radio" name="radio-btn" id="radio8">
         <input type="radio" name="radio-btn" id="radio9">
         <input type="radio" name="radio-btn" id="radio10">
+        <input type="radio" name="radio-btn" id="radio11">
+        <input type="radio" name="radio-btn" id="radio12">
+        <input type="radio" name="radio-btn" id="radio13">
+        <input type="radio" name="radio-btn" id="radio14">
         <!--radio buttons end-->
         <!--slide images start-->
         <div class="slide first">
@@ -53,6 +57,18 @@
         <div class="slide">
           <img src="10.jpg" alt="">
         </div>
+        <div class="slide">
+          <img src="11.jpg" alt="">
+        </div>
+        <div class="slide">
+          <img src="12.jpg" alt="">
+        </div>
+        <div class="slide">
+          <img src="13.jpg" alt="">
+        </div>
+        <div class="slide">
+          <img src="14.jpg" alt="">
+        </div>
         <!--slide images end-->
         <!--automatic navigation start-->
         <div class="navigation-auto">
@@ -66,6 +82,10 @@
           <div class="auto-btn8"></div>
           <div class="auto-btn9"></div>
           <div class="auto-btn10"></div>
+          <div class="auto-btn11"></div>
+          <div class="auto-btn12"></div>
+          <div class="auto-btn13"></div>
+          <div class="auto-btn14"></div>
         </div>
         <!--automatic navigation end-->
       </div>
@@ -81,6 +101,10 @@
         <label for="radio8" class="manual-btn"></label>
         <label for="radio9" class="manual-btn"></label>
         <label for="radio10" class="manual-btn"></label>
+        <label for="radio11" class="manual-btn"></label>
+        <label for="radio12" class="manual-btn"></label>
+        <label for="radio13" class="manual-btn"></label>
+        <label for="radio14" class="manual-btn"></label>
       </div>
       <!--manual navigation end-->
     </div>
@@ -91,7 +115,7 @@
     setInterval(function(){
       document.getElementById('radio' + counter).checked = true;
       counter++;
-      if(counter > 10){
+      if(counter > 14){
         counter = 1;
       }
     }, 5000);
