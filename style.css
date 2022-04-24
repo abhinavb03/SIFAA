@@ -48,13 +48,13 @@ body{
 .manual-btn{
   border: 2px solid #800020;
   padding: 5px;
-  border-radius: 10px;
+  border-radius: 5px;
   cursor: pointer;
   transition: 1s;
 }
 
 .manual-btn:not(:last-child){
-  margin-right: 20px;
+  margin-right: 10px;
 }
 
 .manual-btn:hover{
@@ -134,7 +134,7 @@ body{
 }
 
 .navigation-auto div:not(:last-child){
-  margin-right: 20px;
+  margin-right: 10px;
 }
 
 #radio1:checked ~ .navigation-auto .auto-btn1{
