@@ -16,7 +16,7 @@ body{
 }
 
 .slides{
-  width: 800px;
+  width: 500%;
   height: 500px;
   display: flex;
 }
