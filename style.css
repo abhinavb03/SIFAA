@@ -90,15 +90,15 @@ body{
 }
 
 #radio8:checked ~ .first{
-  margin-left: -70%;
+  margin-left: -140%;
 }
 
 #radio9:checked ~ .first{
-  margin-left: -80%;
+  margin-left: -160%;
 }
 
 #radio10:checked ~ .first{
-  margin-left: -80%;
+  margin-left: -180%;
 }
 /*css for automatic navigation*/
 
