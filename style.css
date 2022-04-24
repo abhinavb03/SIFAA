@@ -54,7 +54,7 @@ body{
 }
 
 .manual-btn:not(:last-child){
-  margin-right: 5px;
+  margin-right: 20px;
 }
 
 .manual-btn:hover{
@@ -134,7 +134,7 @@ body{
 }
 
 .navigation-auto div:not(:last-child){
-  margin-right: 40px;
+  margin-right: 20px;
 }
 
 #radio1:checked ~ .navigation-auto .auto-btn1{
