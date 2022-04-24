@@ -177,18 +177,18 @@ body{
   background: #800020;
 }
 
-#radio11:checked ~ .navigation-auto .auto-btn10{
+#radio11:checked ~ .navigation-auto .auto-btn11{
   background: #800020;
 }
 
-#radio12:checked ~ .navigation-auto .auto-btn10{
+#radio12:checked ~ .navigation-auto .auto-btn12{
   background: #800020;
 }
 
-#radio13:checked ~ .navigation-auto .auto-btn10{
+#radio13:checked ~ .navigation-auto .auto-btn13{
   background: #800020;
 }
 
-#radio14:checked ~ .navigation-auto .auto-btn10{
+#radio14:checked ~ .navigation-auto .auto-btn14{
   background: #800020;
 }
