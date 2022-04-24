@@ -82,23 +82,23 @@ body{
 }
 
 #radio6:checked ~ .first{
-  margin-left: -100%;
+  margin-left: 0;
 }
 
 #radio7:checked ~ .first{
-  margin-left: -120%;
+  margin-left: -20%;
 }
 
 #radio8:checked ~ .first{
-  margin-left: -140%;
+  margin-left: -40%;
 }
 
 #radio9:checked ~ .first{
-  margin-left: -160%;
+  margin-left: -60%;
 }
 
 #radio10:checked ~ .first{
-  margin-left: -180%;
+  margin-left: -80%;
 }
 /*css for automatic navigation*/
 
