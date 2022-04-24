@@ -54,7 +54,7 @@ body{
 }
 
 .manual-btn:not(:last-child){
-  margin-right: 40px;
+  margin-right: 120px;
 }
 
 .manual-btn:hover{
