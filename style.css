@@ -118,7 +118,7 @@ body{
 }
 
 .navigation-auto div:not(:last-child){
-  margin-right: 120px;
+  margin-right: 40px;
 }
 
 #radio1:checked ~ .navigation-auto .auto-btn1{
