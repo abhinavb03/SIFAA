@@ -100,6 +100,22 @@ body{
 #radio10:checked ~ .first{
   margin-left: -180%;
 }
+
+#radio11:checked ~ .first{
+  margin-left: -200%;
+}
+
+#radio12:checked ~ .first{
+  margin-left: -220%;
+}
+
+#radio13:checked ~ .first{
+  margin-left: -240%;
+}
+
+#radio14:checked ~ .first{
+  margin-left: -260%;
+}
 /*css for automatic navigation*/
 
 .navigation-auto{
@@ -158,5 +174,21 @@ body{
 }
 
 #radio10:checked ~ .navigation-auto .auto-btn10{
+  background: #800020;
+}
+
+#radio11:checked ~ .navigation-auto .auto-btn10{
+  background: #800020;
+}
+
+#radio12:checked ~ .navigation-auto .auto-btn10{
+  background: #800020;
+}
+
+#radio13:checked ~ .navigation-auto .auto-btn10{
+  background: #800020;
+}
+
+#radio14:checked ~ .navigation-auto .auto-btn10{
   background: #800020;
 }
