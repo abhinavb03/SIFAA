@@ -66,39 +66,39 @@ body{
 }
 
 #radio2:checked ~ .first{
-  margin-left: -20%;
+  margin-left:0;
 }
 
 #radio3:checked ~ .first{
-  margin-left: -40%;
+  margin-left: 0;
 }
 
 #radio4:checked ~ .first{
-  margin-left: -60%;
+  margin-left: 0;
 }
 
 #radio5:checked ~ .first{
-  margin-left: -80%;
+  margin-left: 0;
 }
 
 #radio6:checked ~ .first{
-  margin-left: -100%;
+  margin-left: 0;
 }
 
 #radio7:checked ~ .first{
-  margin-left: -120%;
+  margin-left: 0;
 }
 
 #radio8:checked ~ .first{
-  margin-left: -140%;
+  margin-left: 0;
 }
 
 #radio9:checked ~ .first{
-  margin-left: -160%;
+  margin-left: 0;
 }
 
 #radio10:checked ~ .first{
-  margin-left: -180%;
+  margin-left: 0;
 }
 /*css for automatic navigation*/
 
