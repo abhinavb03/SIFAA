@@ -66,15 +66,15 @@ body{
 }
 
 #radio2:checked ~ .first{
-  margin-left: -100%;
+  margin-left: -20%;
 }
 
 #radio3:checked ~ .first{
-  margin-left: -100%;
+  margin-left: -40%;
 }
 
 #radio4:checked ~ .first{
-  margin-left: -100%;
+  margin-left: -60%;
 }
 
 #radio5:checked ~ .first{
