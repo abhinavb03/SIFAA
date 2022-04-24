@@ -54,7 +54,7 @@ body{
 }
 
 .manual-btn:not(:last-child){
-  margin-right: 40px;
+  margin-right: 80px;
 }
 
 .manual-btn:hover{
@@ -78,19 +78,19 @@ body{
 }
 
 #radio5:checked ~ .first{
-  margin-left: -80%;
+  margin-left: -40%;
 }
 
 #radio6:checked ~ .first{
-  margin-left: -80%;
+  margin-left: -50%;
 }
 
 #radio7:checked ~ .first{
-  margin-left: -80%;
+  margin-left: -60%;
 }
 
 #radio8:checked ~ .first{
-  margin-left: -80%;
+  margin-left: -70%;
 }
 
 #radio9:checked ~ .first{
